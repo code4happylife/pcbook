@@ -1,0 +1,62 @@
+{
+ "id": "7696e84c-3f2b-401b-8d52-9b04966de9b6",
+ "brand": "Apple",
+ "name": "macbook air",
+ "cpu": {
+  "brand": "Intel",
+  "name": "Core i3",
+  "number_cores": 7,
+  "number_threads": 12,
+  "min_ghz": 2.8128832800084447,
+  "max_ghz": 3.7248690110795106
+ },
+ "ram": {
+  "value": "6",
+  "unit": "GIGABYTE"
+ },
+ "gpus": [
+  {
+   "brand": "AMD",
+   "name": "RX 580",
+   "min_ghz": 1.0236683193879628,
+   "max_ghz": 1.955583405123974,
+   "memory": {
+    "value": "5",
+    "unit": "GIGABYTE"
+   }
+  }
+ ],
+ "storages": [
+  {
+   "driver": "SSD",
+   "memory": {
+    "value": "549",
+    "unit": "GIGABYTE"
+   }
+  },
+  {
+   "driver": "HDD",
+   "memory": {
+    "value": "1",
+    "unit": "TERABYTE"
+   }
+  }
+ ],
+ "screen": {
+  "size_inch": 16.47946,
+  "resolution": {
+   "width": 3287,
+   "height": 1849
+  },
+  "panel": "OLED",
+  "multitouch": false
+ },
+ "keyboard": {
+  "layout": "QWERTZ",
+  "backlit": false
+ },
+ "weight_kg": 2.5401685709496205,
+ "price_usd": 2505.214013528371,
+ "release_year": 2019,
+ "updated_at": "2022-01-16T04:19:36.853839Z"
+}
